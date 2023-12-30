@@ -1,3 +1,3 @@
 1. C:\Work\camel-examples\basic>mvn clean install
 2. C:\Work\camel-examples\basic>mvn camel:run   or
-3. C:\Work\spring-camel>mvn exec:java -Dexec:mainClass="org.apache.camel.example.basic.CamelBasic"
+3. C:\Work\spring-camel>mvn compile exec:java -Dexec:mainClass="org.apache.camel.example.basic.CamelBasic"
