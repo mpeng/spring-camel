@@ -1,0 +1,2 @@
+1. C:\Work\camel-examples\basic>mvn clean install
+2. C:\Work\camel-examples\basic>mvn camel:run
